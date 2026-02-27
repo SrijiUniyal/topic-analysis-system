@@ -52,6 +52,10 @@ BCA-AI & DS Third Year Project
 
 ---
 
+## 🖼 Application Preview
+
+![Topic Analysis System](screenshot.png)
+
 ## 📌 Project Status
 
 ✔ Completed  
