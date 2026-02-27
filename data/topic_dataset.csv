@@ -1,0 +1,244 @@
+topic,text,label
+Artificial Intelligence,AI can automate repetitive tasks and increase efficiency,1
+Artificial Intelligence,AI systems can work 24/7 without fatigue,1
+Artificial Intelligence,AI improves decision making through data analysis,1
+Artificial Intelligence,AI assists doctors in accurate diagnosis,1
+Artificial Intelligence,Automation reduces human errors in processes,1
+Artificial Intelligence,AI enhances cybersecurity monitoring,1
+Artificial Intelligence,Smart assistants simplify daily activities,1
+Artificial Intelligence,AI boosts productivity in businesses,1
+Artificial Intelligence,AI enables personalized recommendations,1
+Artificial Intelligence,AI helps optimize logistics and supply chains,1
+Artificial Intelligence,AI supports advanced research and innovation,1
+Artificial Intelligence,AI improves customer service with chatbots,1
+Artificial Intelligence,AI enhances fraud detection systems,1
+Artificial Intelligence,AI reduces operational costs long term,1
+Artificial Intelligence,AI supports predictive maintenance systems,1
+Artificial Intelligence,AI may cause job displacement in industries,0
+Artificial Intelligence,AI systems can inherit human biases,0
+Artificial Intelligence,AI requires large amounts of data,0
+Artificial Intelligence,AI implementation is expensive initially,0
+Artificial Intelligence,Lack of emotional intelligence in AI decisions,0
+Artificial Intelligence,AI raises serious privacy concerns,0
+Artificial Intelligence,Overdependence on AI reduces human skills,0
+Artificial Intelligence,AI systems can be hacked,0
+Artificial Intelligence,Ethical concerns about autonomous decisions,0
+Artificial Intelligence,AI may widen economic inequality,0
+Artificial Intelligence,Complex AI systems are hard to understand,0
+Artificial Intelligence,AI errors can cause major consequences,0
+Artificial Intelligence,Training AI models consumes high energy,0
+Artificial Intelligence,AI can be misused for surveillance,0
+Artificial Intelligence,AI development lacks strict regulations,0
+
+Remote Work,Flexible work schedule improves work life balance,1
+Remote Work,No commuting saves time and money,1
+Remote Work,Employees can work from any location,1
+Remote Work,Reduces office infrastructure costs,1
+Remote Work,Increases productivity for many employees,1
+Remote Work,Access to global job opportunities,1
+Remote Work,Better focus without office distractions,1
+Remote Work,Improves employee satisfaction,1
+Remote Work,Reduced carbon footprint from less travel,1
+Remote Work,Encourages autonomy and independence,1
+Remote Work,More time for family activities,1
+Remote Work,Customizable home workspace comfort,1
+Remote Work,Saves transportation expenses,1
+Remote Work,Enables flexible career opportunities,1
+Remote Work,Improves inclusivity for disabled workers,1
+Remote Work,Can cause feelings of isolation,0
+Remote Work,Difficult to separate work and personal life,0
+Remote Work,Communication challenges in teams,0
+Remote Work,Limited networking opportunities,0
+Remote Work,Home distractions reduce focus,0
+Remote Work,Security risks in home networks,0
+Remote Work,Internet connectivity issues,0
+Remote Work,Difficulty in team collaboration,0
+Remote Work,Reduced social interaction,0
+Remote Work,Harder for managers to monitor teams,0
+Remote Work,Potential burnout from overworking,0
+Remote Work,Unequal access to proper home office setup,0
+Remote Work,Less team bonding activities,0
+Remote Work,Reduced visibility for promotions,0
+Remote Work,Time zone differences complicate meetings,0
+
+Electric Vehicles,Zero tailpipe emissions reduce pollution,1
+Electric Vehicles,Lower fuel costs compared to gasoline cars,1
+Electric Vehicles,Quiet engines reduce noise pollution,1
+Electric Vehicles,Government subsidies available,1
+Electric Vehicles,Less maintenance required,1
+Electric Vehicles,Energy efficient transportation option,1
+Electric Vehicles,Can be charged at home conveniently,1
+Electric Vehicles,Reduce dependence on fossil fuels,1
+Electric Vehicles,Better acceleration performance,1
+Electric Vehicles,Support renewable energy usage,1
+Electric Vehicles,Lower long term ownership costs,1
+Electric Vehicles,Regenerative braking improves efficiency,1
+Electric Vehicles,Modern technology integration,1
+Electric Vehicles,Reduced greenhouse gas emissions,1
+Electric Vehicles,Environmentally friendly alternative,1
+Electric Vehicles,Limited driving range,0
+Electric Vehicles,Long charging times,0
+Electric Vehicles,High initial purchase cost,0
+Electric Vehicles,Lack of charging stations,0
+Electric Vehicles,Battery degradation over time,0
+Electric Vehicles,Expensive battery replacement,0
+Electric Vehicles,Electric grid dependency issues,0
+Electric Vehicles,Heavy battery weight affects performance,0
+Electric Vehicles,Limited model availability,0
+Electric Vehicles,Charging infrastructure uneven globally,0
+Electric Vehicles,Environmental impact of battery production,0
+Electric Vehicles,Range anxiety for drivers,0
+Electric Vehicles,Slower refueling compared to petrol,0
+Electric Vehicles,Resale value uncertainty,0
+Electric Vehicles,Recycling battery challenges,0
+
+Social Media,Connects people worldwide instantly,1
+Social Media,Useful for business marketing,1
+Social Media,Access to real time news,1
+Social Media,Encourages creative expression,1
+Social Media,Supports online communities,1
+Social Media,Networking opportunities for professionals,1
+Social Media,Platform for education and learning,1
+Social Media,Promotes brand visibility,1
+Social Media,Helps small businesses grow,1
+Social Media,Provides entertainment content,1
+Social Media,Spreads awareness about social issues,1
+Social Media,Facilitates communication quickly,1
+Social Media,Encourages knowledge sharing,1
+Social Media,Easy event promotion,1
+Social Media,Builds global friendships,1
+Social Media,Addiction and excessive usage,0
+Social Media,Cyberbullying problems,0
+Social Media,Privacy concerns and data misuse,0
+Social Media,Spread of misinformation,0
+Social Media,Negative impact on mental health,0
+Social Media,Reduces face to face interaction,0
+Social Media,Time wasting activities,0
+Social Media,Comparison culture increases anxiety,0
+Social Media,Fake profiles and scams,0
+Social Media,Online harassment risks,0
+Social Media,Data security vulnerabilities,0
+Social Media,Polarization of opinions,0
+Social Media,Distraction from productive tasks,0
+Social Media,Manipulation through targeted ads,0
+Social Media,Digital footprint risks,0
+
+Online Education,Access to education from anywhere,1
+Online Education,Flexible schedule for learners,1
+Online Education,Lower tuition costs,1
+Online Education,Self paced learning options,1
+Online Education,Wide range of courses available,1
+Online Education,Recorded lectures for revision,1
+Online Education,Interactive digital content,1
+Online Education,Improves digital literacy skills,1
+Online Education,Convenient for working professionals,1
+Online Education,Global expert instructors access,1
+Online Education,Saves travel time,1
+Online Education,Customizable learning environment,1
+Online Education,Quick access to study materials,1
+Online Education,Accessible during emergencies,1
+Online Education,Encourages independent learning,1
+Online Education,Lack of direct interaction,0
+Online Education,Requires high self discipline,0
+Online Education,Technical problems disrupt classes,0
+Online Education,Limited practical experience,0
+Online Education,Reduced peer interaction,0
+Online Education,Credibility concerns of institutions,0
+Online Education,Digital divide issues,0
+Online Education,Hard to maintain academic integrity,0
+Online Education,Less structured environment,0
+Online Education,Limited campus life experience,0
+Online Education,Screen fatigue issues,0
+Online Education,Reduced networking opportunities,0
+Online Education,Difficulty in group collaboration,0
+Online Education,Dependence on internet access,0
+Online Education,Less hands on training,0
+
+Cryptocurrency,Decentralized financial system,1
+Cryptocurrency,Fast international transactions,1
+Cryptocurrency,Low transaction fees,1
+Cryptocurrency,Financial inclusion opportunities,1
+Cryptocurrency,Transparent blockchain records,1
+Cryptocurrency,Protection against inflation risks,1
+Cryptocurrency,Available 24 7 trading market,1
+Cryptocurrency,Potential high investment returns,1
+Cryptocurrency,Secure cryptographic systems,1
+Cryptocurrency,Smart contract automation,1
+Cryptocurrency,Reduced fraud risk,1
+Cryptocurrency,Global accessibility,1
+Cryptocurrency,Independent from banks,1
+Cryptocurrency,Innovation in financial technology,1
+Cryptocurrency,Digital asset ownership control,1
+Cryptocurrency,High price volatility,0
+Cryptocurrency,Regulatory uncertainty,0
+Cryptocurrency,Risk of hacking and scams,0
+Cryptocurrency,High energy consumption,0
+Cryptocurrency,Limited merchant acceptance,0
+Cryptocurrency,Irreversible transaction mistakes,0
+Cryptocurrency,Complex technology for beginners,0
+Cryptocurrency,Used in illegal activities,0
+Cryptocurrency,Lack of consumer protection,0
+Cryptocurrency,Environmental concerns from mining,0
+Cryptocurrency,Market manipulation risks,0
+Cryptocurrency,No central authority support,0
+Cryptocurrency,Loss of private keys causes loss of funds,0
+Cryptocurrency,Scams and phishing attacks common,0
+Cryptocurrency,Unstable long term value,0
+
+Space Exploration,Advances scientific understanding of the universe,1
+Space Exploration,Leads to technological innovations for everyday life,1
+Space Exploration,Creates high skill job opportunities,1
+Space Exploration,Encourages international collaboration,1
+Space Exploration,Improves satellite communication systems,1
+Space Exploration,Supports weather forecasting accuracy,1
+Space Exploration,Enhances global navigation systems,1
+Space Exploration,Inspires future generations in STEM fields,1
+Space Exploration,Contributes to medical technology advancements,1
+Space Exploration,Provides insights into planetary defense,1
+Space Exploration,Encourages innovation in robotics,1
+Space Exploration,Drives economic growth through new industries,1
+Space Exploration,Helps monitor environmental changes from space,1
+Space Exploration,Expands human knowledge beyond Earth,1
+Space Exploration,Extremely high financial costs,0
+Space Exploration,Risks to astronaut safety,0
+Space Exploration,Space debris increases collision risks,0
+Space Exploration,Limited immediate practical benefits,0
+Space Exploration,Environmental impact of rocket launches,0
+Space Exploration,Resource allocation away from social issues,0
+Space Exploration,Long development timelines,0
+Space Exploration,High failure risks in missions,0
+Space Exploration,Potential militarization of space,0
+Space Exploration,Ethical concerns about space colonization,0
+Space Exploration,Technological dependency on complex systems,0
+Space Exploration,Uncertain return on investment,0
+Space Exploration,Communication delays in deep space missions,0
+Space Exploration,Radiation exposure dangers for astronauts,0
+
+Climate Change,Promotes development of renewable energy sources,1
+Climate Change,Encourages sustainable lifestyle choices,1
+Climate Change,Boosts green job creation,1
+Climate Change,Drives innovation in clean technology,1
+Climate Change,Improves environmental awareness globally,1
+Climate Change,Supports energy efficiency improvements,1
+Climate Change,Encourages international cooperation,1
+Climate Change,Protects biodiversity through conservation efforts,1
+Climate Change,Promotes responsible consumption,1
+Climate Change,Encourages climate friendly policies,1
+Climate Change,Stimulates investment in green infrastructure,1
+Climate Change,Supports long term environmental sustainability,1
+Climate Change,Encourages reduction in fossil fuel dependency,1
+Climate Change,Improves public awareness of environmental issues,1
+Climate Change,Leads to extreme weather events,0
+Climate Change,Causes rising sea levels,0
+Climate Change,Threatens food security,0
+Climate Change,Increases frequency of natural disasters,0
+Climate Change,Loss of biodiversity,0
+Climate Change,Water scarcity in many regions,0
+Climate Change,Health risks from heat waves,0
+Climate Change,Economic damage from climate disasters,0
+Climate Change,Displacement of coastal communities,0
+Climate Change,Increased risk of wildfires,0
+Climate Change,Melting glaciers reduce freshwater supply,0
+Climate Change,Ocean acidification harms marine life,0
+Climate Change,Negative impact on agriculture productivity,0
+Climate Change,Spread of climate related diseases,0
